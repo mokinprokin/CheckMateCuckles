@@ -1,2 +1,2 @@
-# CheckMateCuckles
-> ## Социальная сеть
+# CheckMateCuckles - социальная сеть
+> ## 
