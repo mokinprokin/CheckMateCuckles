@@ -1,4 +1,4 @@
-# CheckMateCuckles - социальная сеть
+# CheckMateCuckles - социальная сеть (python) + PostgreSql
 > ## Библиотеки
 >> 1. **customtkinter**
 >> 2. **Psycopg2**
